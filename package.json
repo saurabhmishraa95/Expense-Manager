@@ -1,0 +1,20 @@
+{
+  "name": "sl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node ./dist/index.js",
+    "prettier": "prettier --ignore-path ../.gitignore \"**/*.+(js|json|ts|tsx)\"",
+    "format": "yarn run prettier -- --write"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/prompt-sync": "^4.2.0",
+    "prettier": "^2.8.1",
+    "prompt-sync": "^4.2.0",
+    "uuidv4": "^6.2.13"
+  }
+}

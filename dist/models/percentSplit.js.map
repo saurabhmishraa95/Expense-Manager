@@ -1,0 +1,1 @@
+{"version":3,"file":"percentSplit.js","sourceRoot":"","sources":["../../models/percentSplit.ts"],"names":[],"mappings":";;;AACA,mCAAgC;AAEhC,MAAa,YAAa,SAAQ,aAAK;IACrC,YAAY,IAAU,EAAE,WAAmB,EAAU,aAAqB;QACxE,KAAK,CAAC,IAAI,EAAE,WAAW,CAAC,CAAC;QAD0B,kBAAa,GAAb,aAAa,CAAQ;IAE1E,CAAC;IAED,IAAW,YAAY;QACrB,OAAO,IAAI,CAAC,aAAa,CAAC;IAC5B,CAAC;CACF;AARD,oCAQC"}
